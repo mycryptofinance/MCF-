@@ -1,4 +1,4 @@
-https://mycryptofinance.github.io/MCF-/# MCF-
+https://mycryptofinance.github.io/MCF-/#
 MyCryptoFinance (MCF)
 ​Web3-проект для обучения и развлечения.
 
